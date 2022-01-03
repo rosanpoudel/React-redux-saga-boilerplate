@@ -1,0 +1,5 @@
+const DUMMY_ACTIONS = {
+	ACTION_NAME: "ACTION_NAME",
+};
+
+export default DUMMY_ACTIONS;

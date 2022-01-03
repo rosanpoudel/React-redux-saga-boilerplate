@@ -1,0 +1,6 @@
+const HOME_ACTIONS = {
+  GET_PRODUCTS: 'GET_PRODUCTS',
+  SET_PRODUCTS: 'SET_PRODUCTS',
+}
+
+export default HOME_ACTIONS
